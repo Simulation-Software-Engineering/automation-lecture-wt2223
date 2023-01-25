@@ -4,22 +4,16 @@ This repository contains the code from the lecture "Testing a Python Code" with 
 
 ## How to use
 
-Running the main code
+Running the main code:
 
 ```bash
 python3 operations.py
 ```
 
-Running the tests via `unittest`
+Running the tests:
 
 ```
 python3 -m unittest
-```
-
-Running the tests via `pytest`
-
-```
-pytest
 ```
 
 ## License
